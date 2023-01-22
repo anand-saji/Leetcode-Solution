@@ -6,6 +6,7 @@ easy,medium,hard.
 hello
 
 # Problems
-#:|Problem|Solution|Difficulty
+#|Problem|Solution|Difficulty
  --- | --- | --- | --- 
 21|abc|xyz|234
+32|ass|as|asf
