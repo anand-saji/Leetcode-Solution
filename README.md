@@ -1,9 +1,9 @@
 # Leetcode-Solution
--[Python](https://leetcode.com/problemset/all/?page=1)
+- [Python](https://leetcode.com/problemset/all/?page=1)
 
--Java
+- Java
 
-+C
++ C
 
 # Problems and Solutions
 #|Problem|Solution|Difficulty
