@@ -6,3 +6,4 @@ easy,medium,hard.
 hello
 
 # Problems
+|:#:|Problem|Solution|Difficulty|
