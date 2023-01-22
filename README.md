@@ -10,5 +10,5 @@ This site was build using [Github](https://leetcode.com/problemset/all/?page=1)
 # Problems
 #|Problem|Solution|Difficulty
  --- | --- | --- | --- 
-21|abc|xyz|234
+21|[abc](https://leetcode.com/problemset/all/?page=1)|[xyz](https://leetcode.com/problemset/all/?page=1)|234
 32|ass|as|asf
