@@ -7,5 +7,5 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 # Problems and Solutions
 #|Problem|Solution|Difficulty
  --- | --- | --- | --- 
-1| Two Sum | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Two%20Sum.java)|Easy
+1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Two%20Sum.java)|Easy
 32|ass|as|asf
