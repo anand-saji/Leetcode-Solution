@@ -1,11 +1,9 @@
 # Leetcode-Solution
-1000 of leetcode problems are solved and solutions classified in difficulties are uploaded. 
+Python
 
-easy,medium,hard.
+Java
 
-hello
-
-This site was build using [Github](https://leetcode.com/problemset/all/?page=1)
+C
 
 # Problems and Solutions
 #|Problem|Solution|Difficulty
