@@ -7,7 +7,7 @@ hello
 
 This site was build using [Github](https://leetcode.com/problemset/all/?page=1)
 
-# Problems
+# Problems and Solutions
 #|Problem|Solution|Difficulty
  --- | --- | --- | --- 
 21|[abc](https://leetcode.com/problemset/all/?page=1)|[xyz](https://leetcode.com/problemset/all/?page=1)|234
