@@ -5,8 +5,8 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 - [***C***](https://github.com/anand-saji/Leetcode-Solution/tree/main/Solutions/C)
 
 # Problems and Solutions
-#|Problem|Solution|Difficulty
- --- | --- | --- | --- 
+#|Problem|Solution|Difficulty|Tags
+ --- | --- | --- | --- | ---
 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Two%20Sum.java)|Easy | Array, Hash Table
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Find%20the%20Duplicate%20Number.java)| Easy | Array, Two Pointers
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/C/Sort%20Colors.c) | Medium | Array, Sort
