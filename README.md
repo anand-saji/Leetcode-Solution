@@ -5,7 +5,7 @@ easy,medium,hard.
 
 hello
 
-This site was build using [Github]{https://leetcode.com/problemset/all/?page=1}
+This site was build using [Github](https://leetcode.com/problemset/all/?page=1)
 
 # Problems
 #|Problem|Solution|Difficulty
