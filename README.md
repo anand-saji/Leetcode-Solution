@@ -10,6 +10,7 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 #|Problem|Solution|Difficulty|Tags
  --- | --- | --- | --- | ---
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Two%20Sum.java)|Easy | Array, Hash Table
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Add%20Two%20Numbers.java) | Medium | LinkedList, Math
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Palindrome%20Number.java) | Easy | Math 
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Container%20With%20Most%20Water.java) | Medium | Two Pointers 
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Integer%20to%20Roman.java) | Medium | String
