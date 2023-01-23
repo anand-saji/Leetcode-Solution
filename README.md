@@ -17,5 +17,6 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/C/Sort%20Colors.c) | Medium | Array, Sort
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Find%20the%20Duplicate%20Number.java) | Medium | Array, Sort
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Valid%20Palindrome%20II.java) | Easy | String
+935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) | [Python3](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Python/Knight%20Dialer.py) | Medium | Dynamic Programming
 
 
