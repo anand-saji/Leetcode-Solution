@@ -26,6 +26,7 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Spiral%20Matrix.java) | Medium | Matrix 
 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Jump%20Game.java) | Medium | Array
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Add%20Binary.java) | Easy | String
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Climbing%20Stairs.java) | Easy | Dynamic Programming 
 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Simplify%20Path.java) | Medium | Stack
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Set%20Matrix%20Zeroes.java) | Medium | Matrix
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/C/Sort%20Colors.c) | Medium | Array, Sort
