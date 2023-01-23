@@ -5,7 +5,9 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 - [***C***](https://github.com/anand-saji/Leetcode-Solution/tree/main/Solutions/C)
 
 ```diff
-This is a green colored line
+Difficulties of problem
+- Hard
++ Easy
 ```
 
 # Problems and Solutions
