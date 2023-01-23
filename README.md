@@ -4,11 +4,6 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 - [***Java***](https://github.com/anand-saji/Leetcode-Solution/tree/main/Solutions/Java)
 - [***C***](https://github.com/anand-saji/Leetcode-Solution/tree/main/Solutions/C)
 
-```diff
-Difficulties of problem
-- Hard
-+ Easy
-```
 
 # Problems and Solutions
 #|Problem|Solution|Difficulty|Tags
