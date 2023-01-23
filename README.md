@@ -9,6 +9,7 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 #|Problem|Solution|Difficulty|Tags
  --- | --- | --- | --- | ---
 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Two%20Sum.java)|Easy | Array, Hash Table
+12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Integer%20to%20Roman.java) | Medium | String
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Longest%20Common%20Prefix.java) | Easy | String 
 23 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Valid%20Parentheses.java) | Easy | String, Hash Table
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Find%20the%20Duplicate%20Number.java)| Easy | Array, Two Pointers
