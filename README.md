@@ -26,6 +26,7 @@ Leetcode problems have been solved and tagged with difficulties of easy, medium,
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Rotate%20Image.java) | Medium | Matrix
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Spiral%20Matrix.java) | Medium | Matrix 
 55 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Jump%20Game.java) | Medium | Array
+62 | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Unique%20Paths.java) | Medium | Dynamic Programming 
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Add%20Binary.java) | Easy | String
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Climbing%20Stairs.java) | Easy | Dynamic Programming 
 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Java](https://github.com/anand-saji/Leetcode-Solution/blob/main/Solutions/Java/Simplify%20Path.java) | Medium | Stack
